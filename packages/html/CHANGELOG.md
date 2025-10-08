@@ -1,5 +1,14 @@
 # @kitajs/html
 
+## 4.2.11
+
+### Patch Changes
+
+- [#435](https://github.com/kitajs/html/pull/435)
+  [`2a31dd4`](https://github.com/kitajs/html/commit/2a31dd4eeeeedcd7f641bedbe739ef7c30424d76)
+  Thanks [@JoBurgard](https://github.com/JoBurgard)! - Add 'command' and 'commandfor' to
+  HtmlButtonTag Type
+
 ## 4.2.10
 
 ### Patch Changes
